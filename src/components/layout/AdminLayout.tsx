@@ -44,7 +44,7 @@ function DrawerContent() {
     <Box className="flex flex-col gap-6 h-screen">
       <Link href={"/"}>
         <Typography variant="h5" pl={4} py={4} fontWeight={600}>
-          Sales Magic.
+          App Title.
         </Typography>
       </Link>
       {ROUTES.map((group) => (
@@ -174,7 +174,7 @@ export default function AdminLayout({
                 display: { xs: "block", sm: "none" },
               }}
             >
-              Sales Magic.
+              App Title.
             </Typography>
           </Link>
           <Box sx={{ flexGrow: 1 }} />

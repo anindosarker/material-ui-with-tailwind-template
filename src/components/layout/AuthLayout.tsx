@@ -97,7 +97,7 @@ export default function AuthLayout({
               Welcome to{" "}
               <Link href="/">
                 <Box component="span" sx={{ color: "#15B79E" }}>
-                  Sales Magic
+                  App Title.
                 </Box>
               </Link>
             </Typography>

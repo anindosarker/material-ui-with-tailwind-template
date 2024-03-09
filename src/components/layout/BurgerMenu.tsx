@@ -94,7 +94,7 @@ export default function BurgerMenu() {
                     borderRadius={2}
                   >
                     {/* <Image src="/logo1.png" height={40} width={40} alt="logo" /> */}
-                    <Typography fontWeight={700}>SalesMagic</Typography>
+                    <Typography fontWeight={700}>App Title.</Typography>
                   </Box>
                 </Box>
               </Toolbar>

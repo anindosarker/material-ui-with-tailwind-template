@@ -25,7 +25,7 @@ export default function Header() {
           }}
         >
           <Image src="/favicon.ico" height={35} width={35} alt="logo" />
-          <Typography fontWeight={800}>Sales Magic</Typography>
+          <Typography fontWeight={800}>App Title.</Typography>
         </Box>
 
         <Box

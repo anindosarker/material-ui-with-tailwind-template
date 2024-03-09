@@ -7,7 +7,7 @@ import GlobalProvider from "@/providers/GlobalProvider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "App | Salesmagic",
+  title: "App Title",
 };
 
 export default function RootLayout({

@@ -44,7 +44,7 @@ export default function Hero() {
               textAlign: "center",
             }}
           >
-            Sales&nbsp;
+            App&nbsp;
             <Typography
               component="span"
               variant="h1"
@@ -55,7 +55,7 @@ export default function Hero() {
                     : "primary.light",
               }}
             >
-              Magic
+              Title
             </Typography>
           </Typography>
           <Typography variant="body1" textAlign="center" color="text.secondary">

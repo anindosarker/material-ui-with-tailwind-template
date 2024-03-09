@@ -55,7 +55,7 @@ export default function Sidebar() {
           width={"100%"}
         >
           <Image src="/favicon.ico" height={80} width={80} alt="logo" />
-          <Typography fontWeight={700}>Sales Magic</Typography>
+          <Typography fontWeight={700}>App Title.</Typography>
         </Box>
       </Toolbar>
       <Divider />
